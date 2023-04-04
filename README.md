@@ -24,6 +24,7 @@
 <h4>🔴 Programming and MarkUp languages:</h4>
 <svg>
   <foreignObject>
+   <div>
     <style>
       .icon-container{ column-gap: 1rem; }
     </style>
@@ -35,6 +36,7 @@
     <img class="skill-icon" src=https://skillicons.dev/icons?i=java />
     <img class="skill-icon" src=https://skillicons.dev/icons?i=php />
     <img class="skill-icon" src=https://skillicons.dev/icons?i=mysql />
+  </div>
   </div>
   </foreignObject>
 </svg>
