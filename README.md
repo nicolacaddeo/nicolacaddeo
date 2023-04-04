@@ -21,7 +21,7 @@
 
 <h3>🏅 My Skills: </h3>
 
-<h5>Programming and MarkUp languages:</h5>
+<h4>Programming and MarkUp languages:</h4>
 <div display="flex">
 <img src=https://skillicons.dev/icons?i=html />
 <img src=https://skillicons.dev/icons?i=css />
