@@ -1,9 +1,3 @@
-<style>
-  .icon-container{
-  column-gap: 1rem;
-  }
-</style>
-
 <h2 align="center"> Hi there 👋 I'm Nicola Caddeo</h2>
 
 <div align="center">
@@ -29,6 +23,9 @@
 
 <h4>🔴 Programming and MarkUp languages:</h4>
 <div display="flex" class="icon-container">
+  <style>
+    .icon-container{ column-gap: 1rem; }
+  </style>
 <img class="skill-icon" src=https://skillicons.dev/icons?i=html />
 <img class="skill-icon" src=https://skillicons.dev/icons?i=css />
 <img class="skill-icon" src=https://skillicons.dev/icons?i=sass />
