@@ -6,7 +6,7 @@
 </a>
 </div>
 
-<h4> My Currently Best Projects: </h4>
+<h3> My Currently Best Projects: </h3>
 
 <div align="left">
 <a href="https://github.com/Broadcodes/project-boolbnb">
@@ -17,7 +17,7 @@
 </a>
 </div>
 ***
-<h4> My Skills: </h4>
+<h3> My Skills: </h3>
 
 <h5>Programming and MarkUp languages:</h5>
 <div display="flex">
