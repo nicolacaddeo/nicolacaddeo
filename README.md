@@ -23,6 +23,7 @@
 <div display="flex">
 <img src=https://skillicons.dev/icons?i=html />
 <img src=https://skillicons.dev/icons?i=css />
+  <img src=https://skillicons.dev/icons?i=sass />
 <img src=https://skillicons.dev/icons?i=js />
 <img src=https://skillicons.dev/icons?i=java />
 <img src=https://skillicons.dev/icons?i=php />
@@ -34,9 +35,16 @@
 <img src=https://skillicons.dev/icons?i=bootstrap />
 <img src=https://skillicons.dev/icons?i=vue />
 <img src=https://skillicons.dev/icons?i=laravel />
-  <img src=https://skillicons.dev/icons?i=spring />
+<img src=https://skillicons.dev/icons?i=spring />
 </div>
 
+<h4>Software and tools:</h4>
+<div display="flex">
+<img src=https://skillicons.dev/icons?i=postman />
+<img src=https://skillicons.dev/icons?i=git />
+<img src=https://skillicons.dev/icons?i=vscode />
+<img src=https://skillicons.dev/icons?i=stackoverflow/>
+</div>
 
 
 
