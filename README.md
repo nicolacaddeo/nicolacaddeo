@@ -20,7 +20,7 @@
 <h4> My Skills: </h4>
 
 <h5>Programming and MarkUp languages:</h5>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,mysql)](https://skillicons.dev)
+<img src=https://skillicons.dev/icons?i=html />
 
 
 
