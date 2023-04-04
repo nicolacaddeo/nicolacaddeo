@@ -6,7 +6,7 @@
 </a>
 </div>
 
-<h3> My Currently Best Projects: </h3>
+<h3>⭐️ My Currently Best Projects: </h3>
 
 <div align="left">
 <a href="https://github.com/Broadcodes/project-boolbnb">
@@ -19,7 +19,7 @@
 
 <hr>
 
-<h3> My Skills: </h3>
+<h3>🏅 My Skills: </h3>
 
 <h5>Programming and MarkUp languages:</h5>
 <div display="flex">
@@ -32,7 +32,7 @@
 <img src=https://skillicons.dev/icons?i=mysql />
 </div>
 
-<h4>Frameworks and libraries:</h4>
+<h4>📚 Frameworks and libraries:</h4>
 <div display="flex">
 <img src=https://skillicons.dev/icons?i=bootstrap />
 <img src=https://skillicons.dev/icons?i=vue />
@@ -40,7 +40,7 @@
 <img src=https://skillicons.dev/icons?i=spring />
 </div>
 
-<h4>Software and tools:</h4>
+<h4>💻 Software and tools:</h4>
 <div display="flex">
 <img src=https://skillicons.dev/icons?i=postman />
 <img src=https://skillicons.dev/icons?i=git />
