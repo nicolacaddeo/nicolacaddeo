@@ -21,6 +21,11 @@
 
 <h5>Programming and MarkUp languages:</h5>
 <img src=https://skillicons.dev/icons?i=html />
+<img src=https://skillicons.dev/icons?i=css />
+<img src=https://skillicons.dev/icons?i=js />
+<img src=https://skillicons.dev/icons?i=java />
+<img src=https://skillicons.dev/icons?i=php />
+<img src=https://skillicons.dev/icons?i=mysql />
 
 
 
