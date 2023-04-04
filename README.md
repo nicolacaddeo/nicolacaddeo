@@ -1,7 +1,13 @@
+<style>
+  .icon-container{
+  column-gap: 1rem;
+  }
+</style
+
 <h2 align="center"> Hi there 👋 I'm Nicola Caddeo</h2>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC1D91&center=true&width=435&lines=NicolaCaddeoDev;Jr.+Full+Stack+Web+Developer" alt="Typing SVG" 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7882F7&center=true&width=435&lines=NicolaCaddeoDev;Jr.+Full+Stack+Web+Developer" alt="Typing SVG" 
 />
 </a>
 </div>
@@ -22,30 +28,30 @@
 <h3>🏅 My Skills: </h3>
 
 <h4>🔴 Programming and MarkUp languages:</h4>
-<div display="flex">
-<img src=https://skillicons.dev/icons?i=html />
-<img src=https://skillicons.dev/icons?i=css />
-  <img src=https://skillicons.dev/icons?i=sass />
-<img src=https://skillicons.dev/icons?i=js />
-<img src=https://skillicons.dev/icons?i=java />
-<img src=https://skillicons.dev/icons?i=php />
-<img src=https://skillicons.dev/icons?i=mysql />
+<div display="flex" class="icon-container">
+<img class="skill-icon" src=https://skillicons.dev/icons?i=html />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=css />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=sass />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=js />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=java />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=php />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=mysql />
 </div>
 
 <h4>📚 Frameworks and libraries:</h4>
-<div display="flex">
-<img src=https://skillicons.dev/icons?i=bootstrap />
-<img src=https://skillicons.dev/icons?i=vue />
-<img src=https://skillicons.dev/icons?i=laravel />
-<img src=https://skillicons.dev/icons?i=spring />
+<div display="flex" class="icon-container">
+<img class="skill-icon" src=https://skillicons.dev/icons?i=bootstrap />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=vue />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=laravel />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=spring />
 </div>
 
 <h4>💻 Software and tools:</h4>
-<div display="flex">
-<img src=https://skillicons.dev/icons?i=postman />
-<img src=https://skillicons.dev/icons?i=git />
-<img src=https://skillicons.dev/icons?i=vscode />
-<img src=https://skillicons.dev/icons?i=stackoverflow/>
+<div display="flex" class="icon-container">
+<img class="skill-icon" src=https://skillicons.dev/icons?i=postman />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=git />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=vscode />
+<img class="skill-icon" src=https://skillicons.dev/icons?i=stackoverflow />
 </div>
 
 
