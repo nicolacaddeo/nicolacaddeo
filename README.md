@@ -29,6 +29,14 @@
 <img src=https://skillicons.dev/icons?i=mysql />
 </div>
 
+<h4>Frameworks and libraries:</h4>
+<div display="flex">
+<img src=https://skillicons.dev/icons?i=bootstrap />
+<img src=https://skillicons.dev/icons?i=vue />
+<img src=https://skillicons.dev/icons?i=laravel />
+  <img src=https://skillicons.dev/icons?i=spring />
+</div>
+
 
 
 
