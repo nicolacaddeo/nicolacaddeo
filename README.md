@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋 I'm Nicola Caddeo </h2>
+<h2 align="center"> Hi there 👋 I'm Nicola Caddeo🇮🇹 </h2>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC1D91&center=true&width=435&lines=NicolaCaddeoDev;Jr.+Full+Stack+Web+Developer" alt="Typing SVG" 
@@ -21,7 +21,7 @@
 
 <h3>🏅 My Skills: </h3>
 
-<h4>Programming and MarkUp languages:</h4>
+<h4>🔴 Programming and MarkUp languages:</h4>
 <div display="flex">
 <img src=https://skillicons.dev/icons?i=html />
 <img src=https://skillicons.dev/icons?i=css />
