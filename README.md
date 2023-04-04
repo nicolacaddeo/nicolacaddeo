@@ -2,7 +2,7 @@
   .icon-container{
   column-gap: 1rem;
   }
-</style
+</style>
 
 <h2 align="center"> Hi there 👋 I'm Nicola Caddeo</h2>
 
