@@ -20,7 +20,7 @@
 <h4> My Skills: </h4>
 
 <h5>Programming and MarkUp languages:</h5>
-<div>
+<div display="flex">
 <img src=https://skillicons.dev/icons?i=html />
 <img src=https://skillicons.dev/icons?i=css />
 <img src=https://skillicons.dev/icons?i=js />
