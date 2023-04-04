@@ -22,18 +22,19 @@
 <h3>🏅 My Skills: </h3>
 
 <h4>🔴 Programming and MarkUp languages:</h4>
-<div display="flex" class="icon-container">
-  <style>
-    .icon-container{ column-gap: 1rem; }
-  </style>
-<img class="skill-icon" src=https://skillicons.dev/icons?i=html />
-<img class="skill-icon" src=https://skillicons.dev/icons?i=css />
-<img class="skill-icon" src=https://skillicons.dev/icons?i=sass />
-<img class="skill-icon" src=https://skillicons.dev/icons?i=js />
-<img class="skill-icon" src=https://skillicons.dev/icons?i=java />
-<img class="skill-icon" src=https://skillicons.dev/icons?i=php />
-<img class="skill-icon" src=https://skillicons.dev/icons?i=mysql />
-</div>
+<svg>
+  <foreignObject>
+  <div display="flex" class="icon-container">
+    <img class="skill-icon" src=https://skillicons.dev/icons?i=html />
+    <img class="skill-icon" src=https://skillicons.dev/icons?i=css />
+    <img class="skill-icon" src=https://skillicons.dev/icons?i=sass />
+    <img class="skill-icon" src=https://skillicons.dev/icons?i=js />
+    <img class="skill-icon" src=https://skillicons.dev/icons?i=java />
+    <img class="skill-icon" src=https://skillicons.dev/icons?i=php />
+    <img class="skill-icon" src=https://skillicons.dev/icons?i=mysql />
+  </div>
+  </foreignObject>
+</svg>
 
 <h4>📚 Frameworks and libraries:</h4>
 <div display="flex" class="icon-container">
