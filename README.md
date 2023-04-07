@@ -15,6 +15,9 @@
 <a href="https://github.com/nicolacaddeo/IceTime">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolacaddeo&repo=IceTime&theme=react&bg_color=0a1930&title_color=2f75de&icon_color=F8D866&hide_border=true&show_icons=false" alt="boolBnB">
 </a>
+<a href="https://github.com/nicolacaddeo/portfolio-pro">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolacaddeo&repo=portfolio-pro&theme=react&bg_color=0a1930&title_color=2f75de&icon_color=F8D866&hide_border=true&show_icons=false" alt="boolBnB">
+</a>
 </div>
 
 <hr>
